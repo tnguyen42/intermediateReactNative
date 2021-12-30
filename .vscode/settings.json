@@ -1,0 +1,16 @@
+{
+	"editor.formatOnSave": true,
+	"editor.tabSize": 2,
+	"editor.rulers": [80],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true,
+	},
+	"[yaml]": {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+		"editor.autoIndent": "none"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
